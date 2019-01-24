@@ -1,0 +1,5 @@
+com\capco\travel\model\EmployeeDetailsBO.class
+com\capco\travel\PersonalDetailsServiceApplication.class
+com\capco\travel\controller\EmployeeDetailsController.class
+com\capco\travel\exception\CustomException.class
+com\capco\travel\jpaRepo\EmployeeDetailsRepo.class
