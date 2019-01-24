@@ -1,5 +1,0 @@
-package com.capco.travel.util;
-
-public class Something {
-
-}
