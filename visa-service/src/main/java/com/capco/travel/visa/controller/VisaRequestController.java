@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
-
 import com.capco.travel.visa.model.VisaRequestBO;
 import com.capco.travel.visa.repository.VisaRepository;
 import com.capco.travel.visa.service.VisaService;
